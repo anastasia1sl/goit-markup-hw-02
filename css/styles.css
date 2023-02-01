@@ -14,10 +14,7 @@ body {
 }
 
 /* -----------------Header------------ */
-.header {
-}
-.header-navigation {
-}
+
 .header-logo {
   font-family: "Raleway";
   font-weight: 800;
@@ -30,10 +27,7 @@ body {
 .logo-accent {
   color: var(--accent-color);
 }
-.header-list {
-}
-.header-item {
-}
+
 .header-link {
   font-weight: 500;
   font-size: 16px;
@@ -89,7 +83,6 @@ body {
 }
 
 .hero-btn {
-  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -105,10 +98,6 @@ body {
 
 /* -----------------About section-------------- */
 
-.about {
-}
-.about-title {
-}
 .visually-hidden {
   position: absolute;
   white-space: nowrap;
@@ -122,11 +111,6 @@ body {
   margin: -1px;
 }
 
-.about-list {
-}
-
-.about-item {
-}
 .about-item-title {
   font-weight: 500;
   font-size: 20px;
@@ -143,8 +127,6 @@ body {
 
 /* ----------What are we doing section------ */
 
-.examples {
-}
 .examples-title {
   font-size: 36px;
   line-height: 1.11;
@@ -152,12 +134,7 @@ body {
   color: var(--main-title-color);
   text-align: center;
 }
-.examples-list {
-}
-.examples-items {
-}
-.examples-pics {
-}
+
 /* ----------------Our Team section--------- */
 .team {
   background-color: var(--common-background-color);
@@ -170,12 +147,7 @@ body {
   color: var(--main-title-color);
   text-align: center;
 }
-.team-list {
-}
-.team-item {
-}
-.team-pics {
-}
+
 .team-item-title {
   font-weight: 500;
   font-size: 20px;
@@ -231,13 +203,7 @@ body {
 }
 
 /* -------------projects section------------- */
-.projects-list {
-}
 
-.projects-item {
-}
-.projects-pics {
-}
 .projects-title {
   font-weight: 500;
   font-size: 20px;
